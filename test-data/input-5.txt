@@ -1,0 +1,3 @@
+#create a ship with both guns loaded
+GT4500,10,0,10,0
+TORPEDO,ALL #fire both guns

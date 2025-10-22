@@ -1,0 +1,6 @@
+#create a ship with torpedos and one gun with 1 failrate, the other with 0
+GT4500,10,0,10,1
+TORPEDO,SINGLE #fire first gun
+TORPEDO,SINGLE #fire second gun
+TORPEDO,SINGLE #fire first gun
+TORPEDO,SINGLE #fire second gun
