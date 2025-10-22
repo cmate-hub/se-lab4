@@ -1,0 +1,4 @@
+#create a ship with torpedos and 1 failrate
+gt4500,10,1,10,1
+TORPEDO,SINGLE #try to fire
+TORPEDO,SINGLE #try to fire
