@@ -1,0 +1,5 @@
+SUCCESS #GT4500
+SUCCESS #first gun fired
+FAIL #second gun fired
+FAIL #first gun fired
+FAIL #first gun fired
